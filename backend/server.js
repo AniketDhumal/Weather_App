@@ -6,7 +6,6 @@ import dotenv from "dotenv";
 import weatherRoutes from "./routes/weather.js";
 import favoriteRoutes from "./routes/favorites.js";
 import messageRoutes from "./routes/messages.js";
-import citiesRoutes from "./routes/cities.js";
 
 dotenv.config();
 
@@ -18,7 +17,6 @@ app.use(express.json());
 app.use("/api/weather", weatherRoutes);
 app.use("/api/favorites", favoriteRoutes);
 app.use("/api/messages", messageRoutes);
-app.use("/api/cities", citiesRoutes);
 
 // Error handler (optional but recommended)
 app.use((err, req, res, next) => {
@@ -40,3 +38,4 @@ mongoose
     );
   })
   .catch((err) => console.error("❌ MongoDB connection failed:", err));
+
