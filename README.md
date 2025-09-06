@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Weather App 🌤️
 
 A full-stack weather application built with Node.js, Express, Vite, and MongoDB. This app fetches real-time weather data and allows users to save favorite locations.
@@ -16,7 +14,7 @@ Database: MongoDB (Atlas or local)
 API: OpenWeatherMap API
 Setup Instructions
 Clone the Repository
-git clone [https://github.com/AniketDhumal/Weather.git](https://github.com/AniketDhumal/Weather.git)
+git clone [https://github.com/AniketDhumal/Weather.git](https://github.com/AniketDhumal/Weather_App.git)
 cd Weather
 
 Install Dependencies
@@ -155,4 +153,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ***
 
 Would you like me to also include **screenshots and API usage details** in the README to make it more professional for GitHub?
+
 
