@@ -14,7 +14,7 @@ Database: MongoDB (Atlas or local)
 API: OpenWeatherMap API
 Setup Instructions
 Clone the Repository
-git clone [https://github.com/AniketDhumal/Weather_App/edit/main/README.md)
+git clone [https://github.com/AniketDhumal/Weather_App)
 cd Weather
 
 Install Dependencies
@@ -143,3 +143,4 @@ Contributions are welcome!
 - Commit your changes
 - Push the branch
 - Open a Pull Request 🚀
+
