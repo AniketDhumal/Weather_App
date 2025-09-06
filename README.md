@@ -13,14 +13,6 @@ Backend: Node.js, Express
 Database: MongoDB (Atlas or local)
 API: OpenWeatherMap API
 
-
-# Weather App 🌤️
-
-A full-stack weather application built with **Node.js**, **Express**, **Vite**, and **MongoDB**.
-This app fetches real-time weather data and allows users to save favorite locations.
-
-***
-
 ## Features
 
 - **Current Weather**: View temperature, humidity, wind speed, and weather conditions.
@@ -108,5 +100,6 @@ Contributions are welcome!
 - Commit your changes
 - Push the branch
 - Open a Pull Request 🚀
+
 
 
